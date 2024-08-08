@@ -1,6 +1,7 @@
-mcdreforged>=2.1.2
-flask
-pandas
-pygame
-requests
-pyyaml
+Flask>=3.0.3
+mcdreforged>=2.13.1
+pandas>=2.2.2
+plugins>=0.5a1dev
+PyYAML>=6.0.1
+PyYAML>=6.0.2
+Requests>=2.32.3
