@@ -93,7 +93,7 @@ servers:
 > 不支持
 
 ### 开发
-> 无
+> [PF-GUGUbot](https://github.com/LoosePrince/PF-GUGUBot)
 
 # 有BUG或是新的IDEA
 如果需要更多联动或提交想法和问题请提交 [issues](https://github.com/LoosePrince/PF-CoolQAPI/issues) 或 QQ [1377820366](http://wpa.qq.com/msgrd?v=3&uin=1377820366&site=qq&menu=yes) 提交！ <br />
