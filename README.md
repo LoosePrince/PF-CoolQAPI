@@ -89,21 +89,9 @@ servers:
 > 由于机器人默认反向地址`http://127.0.0.1:5701/`没有post_path，所以CoolQAPI中post_path留空。
 > 
 
-### 关于多服使用
-> 不支持
-
 ### 开发
-> [PF-GUGUbot](https://github.com/LoosePrince/PF-GUGUBot)
+> 无
 
 # 有BUG或是新的IDEA
 如果需要更多联动或提交想法和问题请提交 [issues](https://github.com/LoosePrince/PF-CoolQAPI/issues) 或 QQ [1377820366](http://wpa.qq.com/msgrd?v=3&uin=1377820366&site=qq&menu=yes) 提交！ <br />
 视情况添加，请勿联系他人（开发者：[雪开](https://github.com/XueK66)）
-
-# TODO
-- [ ] 无
-
-# 使用条款
-- 禁止声明为你原创  
-- 禁止商业服使用、盈利等
-- 禁止售卖
-- 允许二次创作，但请标明来源
