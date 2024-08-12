@@ -4,8 +4,8 @@
 # PF-CoolQ API
 > PFingan服务器迁移和维护的CoolQAPI插件
 
-[![页面浏览量计数](https://img.shields.io/github/watchers/LoosePrince/PF-CoolQAPI?style=flat-square&label=浏览量)](/) 
-[![查看次数起始时间](https://img.shields.io/badge/查看次数统计起始于-2024%2F08%2F08-1?style=flat-square)](/)
+[![页面浏览量计数](https://badges.toozhao.com/badges/01J53MWT9TCPVNH36K8Y5PGY72/green.svg)](/) 
+[![查看次数起始时间](https://img.shields.io/badge/查看次数统计起始于-2024%2F08%2F12-1?style=flat-square)](/)
 [![仓库大小](https://img.shields.io/github/repo-size/LoosePrince/PF-CoolQAPI?style=flat-square&label=仓库占用)](/) 
 [![最新版](https://img.shields.io/github/v/release/LoosePrince/PF-CoolQAPI?style=flat-square&label=最新版)](https://github.com/LoosePrince/PF-CoolQAPI/releases/latest/download/GUGUbot.mcdr)
 [![Issues](https://img.shields.io/github/issues/LoosePrince/PF-CoolQAPI?style=flat-square&label=Issues)](https://github.com/LoosePrince/PF-CoolQAPI/issues) 
