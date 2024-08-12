@@ -51,6 +51,10 @@ account:
   password: ''
 ```
 
+#### 使用LLOneBot
+- 消息上传格式: CQ码
+- 更多更详细的LLOneBot教程请看 [LLOneBot快速开始](https://llonebot.github.io/zh-CN/guide/getting-started)
+
 #### 使用 HTTP
 将配置中的 `http` 设置为 `true` ，将 `websocket` 设置为 `false` 。 然后在 go-cqhttp 配置的 `servers` 字段中设置 `http` （此配置应与CoolQAPI配置内容匹配）：
 
