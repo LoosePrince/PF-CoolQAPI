@@ -39,8 +39,9 @@
 ### QQ Bot 配置
 >配置方法部分源自原始插件说明
 
-推荐使用 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-
+推荐使用
+- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) : 适用多个平台，但是容易风控
+- [LLOneBot](https://github.com/LLOneBot/LLOneBot) : 不易风控，仅适用于QQNT，是 `LiteLoaderQQNT` 的附属插件
 #### 使用go-cqhttp
 在`account`字段中设置QQ帐号和密码：
 
