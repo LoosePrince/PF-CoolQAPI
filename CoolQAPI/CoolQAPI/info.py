@@ -177,7 +177,7 @@ class Info:
     def __shutdown():
         func = request.environ.get('werkzeug.server.shutdown')
         if func is None:
-            raise RuntimeError
+            return
         func()
 
     def __getitem__(self, item):
