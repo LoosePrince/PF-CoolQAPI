@@ -20,7 +20,7 @@
 <br></br>
 
 使用方式：
-* 将Release里面的CoolQAPI.zip解压后放入`/plugins`
+* 将Release里面的CoolQAPI.mcdr放入`/plugins`
 * 加载后，在`/config/CoolQAPI/config.yml`中配置服务
 * 注意修改`CoolQAPI`的`command_prefix`的为`#`，否则使用不了`GUGUBot`的`命令`功能
 
