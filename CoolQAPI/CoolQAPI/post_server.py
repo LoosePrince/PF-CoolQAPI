@@ -36,7 +36,7 @@ class PostServer(Thread):
 
     def run(self):
         self.__server.logger.info('CoolQAPI server is starting up')
-        self.__server.logger.info(f"Listening address: {self.__config['post_host']}:{self.__config['post_port']}/{self.__config["post_path"]}")
+        self.__server.logger.info(f"Listening address: {self.__config['post_host']}:{self.__config['post_port']}/{self.__config['post_path']}")
         self.__post_server.run(
             port=self.__config['post_port'],
             host=self.__config['post_host'],
