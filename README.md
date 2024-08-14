@@ -1,5 +1,7 @@
 ## 公告
-> 看 [GUGUbot](https://github.com/LoosePrince/PF-GUGUBot) 的公告
+> 2024.08.15
+> 
+> 我们已经抛弃了CoolQAPI，并使用了自己的API[PF-websocket_info_factory](https://github.com/XueK66/PF-websocket_info_factory)
 
 # PF-CoolQ API
 > PFingan服务器迁移和维护的CoolQAPI插件
